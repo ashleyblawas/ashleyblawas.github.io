@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <b>Comparative Physiologist</b>. Postdoctoral Researcher, Stanford University
 
 profile:
   align: right
