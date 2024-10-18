@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -9,17 +9,19 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>120 Ocean View Blvd.</p>
+    <p>Pacific Grove, CA 93950</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a <a href = "https://profiles.stanford.edu/ashley-blawas"> Postdoctoral Researcher</a> in the Goldbogen Lab at <a href="https://hopkinsmarinestation.stanford.edu/"> Stanford University</a>. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed by Ph.D. in Marine Science in the <a href="https://sites.nicholas.duke.edu/nowacek/"> Nowacek Lab </a> at <a href="https://nicholas.duke.edu/marinelab"> Duke University</a>. My dissertation research focused on the physiological adaptations that enable marine mammals to dive for extended periods of time underwater. By measuring both physiological rates and related molecular markers for during resting and active behaviors, I aim to understand how marine mammals adjust their cardiovascular and metabolic processes on a fine-scale to support differing needs during dive recovery and preparation at the surface versus an extended dive. As marine mammals are forced to adapt to changing oceans in the face of climate change, increasing ocean noise, and higher boat traffic, it will become more critical to understand the physiological thresholds on diving behavior. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to research, I focused on developing my teaching abilities as part of my graduate studies. I pursueed a <a href="https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching">Certificate in College Teaching</a> during which I took courses in pedagogy, course design, and college teaching.  I have experience creating and giving lectures and leading lab exercises on topics within the field of physiology to a diverse array of students from specialized courses like Comparative Physiology of Marine Animals to general courses like Marine Megafauna. I have also prioritized improving my science communication skills and community engagment through outreach programs like <a href="https://sites.duke.edu/gest/">Growing Equity in Science and Technology</a> and <a href="https://www.skypeascientist.com/">Skype a Scientist</a>. 
+
+
+You can reach me either at <a href="mailto:ashleyblawas@gmail.com">ashleyblawas@gmail.com</a> or <a href="mailto:ashleyblawas@stanford.edu">ashleyblawas@stanford.edu</a>.
