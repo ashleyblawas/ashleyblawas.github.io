@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Diving patterns of cryptic, deep diving cetaceans
+description: Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina.
 img:
 importance: 4
 category: fun
