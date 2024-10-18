@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
@@ -9,3 +9,5 @@ description: You can find my CV below and downloadable as a PDF.
 toc:
   sidebar: left
 ---
+
+<iframe width="100%" height="680" src="https://drive.google.com/file/d/1TXj7woc2eGazc9ixTnOIyI_d7AQuP71z/preview"></iframe>
