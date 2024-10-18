@@ -6,8 +6,6 @@ nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
 description: You can find my CV below and downloadable as a PDF.
-toc:
-  sidebar: left
 ---
 
 <iframe width="100%" height="680" src="https://drive.google.com/file/d/1TXj7woc2eGazc9ixTnOIyI_d7AQuP71z/preview"></iframe>
