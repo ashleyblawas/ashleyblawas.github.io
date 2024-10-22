@@ -10,10 +10,12 @@ category: fun
 The Marine Mammal Acoustics and Spatial Ecology (MAPS) project was funded by BOEM and led by Drs. Doug Nowacek (Duke) and Ann Pabst (UNCW). The project had four components whose outputs are summarized in the <a href="https://ashleyblawas.github.io/assets/pdf/BOEM%20MAPS%20Report%202023.pdf" target="_blank">final project report</a>:
 
 
-(1) Visual and passive acoustic monitoring (PAM) of cetaceans across a section of the Mid-Atlantic Outer Continental Shelf (OCS)
-(2) Improvements to opensource tag visualization software
-(3) Streamlining of citizen science data-gathering technologies, and
-(4) Communication and outreach efforts
+<ol>
+  <li>Visual and passive acoustic monitoring (PAM) of cetaceans across a section of the Mid-Atlantic Outer Continental Shelf (OCS)</li>
+  <li>Improvements to opensource tag visualization software</li>
+  <li>Streamlining of citizen science data-gathering technologies, and</li>
+   <li>Communication and outreach efforts</li>
+</ol>
 
 You can find a brief explainer on the research efforts here:
 <iframe width="420" height="315"
