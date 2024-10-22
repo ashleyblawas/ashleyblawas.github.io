@@ -2,9 +2,9 @@
 layout: page
 title: Diving patterns of cryptic, deep diving cetaceans
 description: Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina.
-img:
+img: assets/img/MAPS-logo.png
 importance: 4
-category: fun
+category:
 ---
 
 The Marine Mammal Acoustics and Spatial Ecology (MAPS) project was funded by BOEM and led by Drs. Doug Nowacek (Duke) and Ann Pabst (UNCW). The project had four components whose outputs are summarized in the <a href="https://ashleyblawas.github.io/assets/pdf/BOEM%20MAPS%20Report%202023.pdf" target="_blank">final project report</a>:
