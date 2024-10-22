@@ -22,3 +22,15 @@ I am currently a <a href = "https://profiles.stanford.edu/ashley-blawas"> Postdo
 I completed by Ph.D. in Marine Science in the <a href="https://sites.nicholas.duke.edu/nowacek/"> Nowacek Lab </a> at <a href="https://nicholas.duke.edu/marinelab"> Duke University</a> and obtained my B.S.E in Biomedical Engineering from Duke University's <a href="https://pratt.duke.edu/"> Pratt School of Engineering. </a>
 
 In addition to research, I have focused on developing my teaching abilities as part of my training. I pursued a <a href="https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching">Certificate in College Teaching</a> during which I took courses in pedagogy, course design, and college teaching.  I have experience instructing course, creating and giving lectures, and leading lab exercises on topics within the field of physiology to a diverse array of students from specialized courses like Comparative Physiology of Marine Animals to general courses like Marine Megafauna. I have also prioritized improving my science communication skills and community engagment through outreach programs like <a href="https://sites.duke.edu/gest/">Growing Equity in Science and Technology</a> and <a href="https://www.skypeascientist.com/">Skype a Scientist</a>. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DQO2018.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
