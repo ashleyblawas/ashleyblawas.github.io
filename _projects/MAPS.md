@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Diving patterns of cryptic, deep diving cetaceans
-description: Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina.
+description: Using tagging, surveys, and towed hydrophones to understand the spatial ecology of whales off the coast of North Carolina
 img: assets/img/MAPS-logo.png
 importance: 4
 category:
