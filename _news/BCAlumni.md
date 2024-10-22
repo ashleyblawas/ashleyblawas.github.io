@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was featured as a an alumni of the Bass Connections History and Future of Ocean Energy Team <a href="https://bassconnections.duke.edu/ashley-blawas">(Duke Bass Connections)</a>
+I was featured as an alumni of the Bass Connections History and Future of Ocean Energy Team <a href="https://bassconnections.duke.edu/ashley-blawas">(Duke Bass Connections)</a>
