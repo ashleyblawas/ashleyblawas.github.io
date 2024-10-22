@@ -3,7 +3,7 @@ layout: page
 title: Respiration detection from short-finned pilot whale biologging tags
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: [https://unsplash.com](https://github.com/ashleyblawas/respdetect)
+redirect: https://github.com/ashleyblawas/respdetect
 importance: 3
 category:
 ---
