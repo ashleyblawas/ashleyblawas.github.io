@@ -25,12 +25,12 @@ In addition to research, I have focused on developing my teaching abilities as p
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DQO2018.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DQO2018.png" title="DQ respirometry study" style="height: 50px" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/MCR2019.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/MCR2019.JPG" title="DTAG discussion on SOTW" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gm_image.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gm_image.png" title="Short-finned pilot whale DTAG" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
