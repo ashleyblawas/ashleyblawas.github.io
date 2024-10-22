@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Molecular and cellular adaptations to diving in bottlenose dolphins
-description: 
+description: Using molecular biology tools to investigate adaptations to hypoxia/ischemia in a diving mammal
 img:
 importance: 1
 category: fun
