@@ -18,9 +18,10 @@ The Marine Mammal Acoustics and Spatial Ecology (MAPS) project was funded by BOE
 </ol>
 
 You can find a brief explainer on the research efforts here:
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=e7-Eeyj88cM">
-</iframe>
+<p style="text-align:center;"><iframe width="600" height="450" src="https://www.youtube.com/embed/=e7-Eeyj88cM"> </iframe></p>
+
+
+This work was conducted on <a href="https://www.marineconservationresearch.co.uk/rv-song-of-the-whale/">R/V Song of the Whale</a> (SOTW) during the winter and spring of 2019. I served as a visual observer on 2 two-week legs of the project aboard SOTW.
 
 
 <div class="row">
@@ -29,14 +30,6 @@ src="https://www.youtube.com/watch?v=e7-Eeyj88cM">
     </div>
 </div>
 <div class="caption">
-    Dr. Leigh Hickmott gives instructions on use of digital acoustic recording tags (DTAGs).
+    Dr. Leigh Hickmott gives instructions on the use of digital acoustic recording tags (DTAGs).
 </div>
-
-
-
-<iframe src="https://ashleyblawas.github.io/assets/pdf/BOEM%20MAPS%20Report%202023.pdf style="width:718px; height:700px;" frameborder="0"></iframe>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
