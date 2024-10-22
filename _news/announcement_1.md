@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-The Goldbogen Lab meets the Naval Postgraduates School Climate Security Fellows and faculty. <a href="https://nps.edu/-/inaugural-nps-and-stanford-climate-security-fellows-answer-the-nation-s-call
-">(NPS)</a>:
+The Goldbogen Lab meets the Naval Postgraduates School Climate Security Fellows and faculty <a href="https://nps.edu/-/inaugural-nps-and-stanford-climate-security-fellows-answer-the-nation-s-call
+">(NPS)</a>
