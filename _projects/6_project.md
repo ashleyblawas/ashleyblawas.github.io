@@ -34,11 +34,9 @@ src="https://www.youtube.com/watch?v=e7-Eeyj88cM">
 
 
 
-<iframe src="assets/pdf/BOEM MAPS Report 2023.pdf style="width:718px; height:700px;" frameborder="0"></iframe>
+<iframe src="https://ashleyblawas.github.io/assets/pdf/BOEM%20MAPS%20Report%202023.pdf style="width:718px; height:700px;" frameborder="0"></iframe>
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-
-{% endraw %}
