@@ -2,7 +2,7 @@
 layout: page
 title: Cardio-respiratory coupling in cetaceans
 description: Using ECG and respirometry methods to examine oxygen loading in breath-holding dolphins.
-img: assets/img/DQO2018.jpg
+img: assets/img/DQO2018.JPG
 importance: 3
 ---
 
