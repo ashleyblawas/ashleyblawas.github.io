@@ -18,7 +18,7 @@ The Marine Mammal Acoustics and Spatial Ecology (MAPS) project was funded by BOE
 </ol>
 
 You can find a brief explainer on the research efforts here:
-<p style="text-align:center;"><iframe width="600" height="450" src="https://www.youtube.com/embed/=e7-Eeyj88cM"> </iframe></p>
+<p style="text-align:center;"><iframe width="600" height="450" src="src="https://www.youtube.com/embed/e7-Eeyj88cM?si=BVJw9UaDWC6xbNr4"> </iframe></p>
 
 
 This work was conducted on <a href="https://www.marineconservationresearch.co.uk/rv-song-of-the-whale/">R/V Song of the Whale</a> (SOTW) during the winter and spring of 2019. I served as a visual observer on 2 two-week legs of the project aboard SOTW.
