@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Hopkins Marine Station of Stanford University</p>
     <p>120 Ocean View Blvd.</p>
     <p>Pacific Grove, CA 93950</p>
 
@@ -17,11 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a <a href = "https://profiles.stanford.edu/ashley-blawas"> Postdoctoral Researcher</a> in the Goldbogen Lab at <a href="https://hopkinsmarinestation.stanford.edu/"> Stanford University</a>. My research focuses on the physiological traits that underpin  metabolic function in baleen whales using engineering and molecular biology tools.  I work across multiple scales of biological organization, from organism to organ system, tissue, and cell, to answer questions about how animals sustain physiological function at the limits of organismal performance. I work on answering questions about drivers of oxygen/nutrient transport, limits to metabolic function in oxygen/nutrient-limited behavioral states and environments, and how adaptations to these challenges differ across organisms during acute versus chronic oxygen/nutrient stress. 
+I am currently a <a href = "https://profiles.stanford.edu/ashley-blawas"> Postdoctoral Researcher</a> in the Goldbogen Lab at <a href="https://hopkinsmarinestation.stanford.edu/"> Stanford University</a>. My research focuses on the physiological traits that underpin  metabolic function in baleen whales using engineering and molecular biology tools.  I work across multiple scales of biological organization, from organism to organ system, tissue, and cell, to understand how animals sustain physiological function at the limits of organismal performance. I work on answering questions about drivers of oxygen/nutrient transport, limits to metabolic function in oxygen/nutrient-limited behavioral states and environments, and how adaptations to these challenges differ across organisms during acute versus chronic oxygen/nutrient stress. 
 
 I completed by Ph.D. in Marine Science in the <a href="https://sites.nicholas.duke.edu/nowacek/"> Nowacek Lab </a> at <a href="https://nicholas.duke.edu/marinelab"> Duke University</a> and obtained my B.S.E in Biomedical Engineering from Duke University's <a href="https://pratt.duke.edu/"> Pratt School of Engineering. </a>
 
-In addition to research, I have focused on developing my teaching abilities as part of my training. I pursued a <a href="https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching">Certificate in College Teaching</a> during which I took courses in pedagogy, course design, and college teaching.  I have experience instructing course, creating and giving lectures, and leading lab exercises on topics within the field of physiology to a diverse array of students from specialized courses like Comparative Physiology of Marine Animals to general courses like Marine Megafauna. I have also prioritized improving my science communication skills and community engagment through outreach programs like <a href="https://sites.duke.edu/gest/">Growing Equity in Science and Technology</a> and <a href="https://www.skypeascientist.com/">Skype a Scientist</a>. 
+In addition to research, I have focused on developing my teaching abilities as part of my training. I pursued a <a href="https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching">Certificate in College Teaching</a> during which I took courses in pedagogy, course design, and college teaching.  I have experience instructing course, creating and giving lectures, and leading lab exercises on topics within the field of physiology to a diverse array of students from specialized courses like Comparative Physiology of Marine Animals to general courses like Marine Megafauna. I have also enhanced my science communication skills and community engagment through outreach programs like <a href="https://sites.duke.edu/gest/">Growing Equity in Science and Technology</a> and <a href="https://www.skypeascientist.com/">Skype a Scientist</a>. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
