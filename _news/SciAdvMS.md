@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper out in Science Advances answers question of field metaoblic scaling in the plane'ts largest animals (baleen whales)!
+New paper out in Science Advances answers question of field metaoblic scaling in the planet's largest animals (baleen whales)!
