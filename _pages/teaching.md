@@ -12,7 +12,7 @@ nav_order: 6
 <ul>
   <li> <b>Co-Instructor:</b> </li>
       <ul>
-      <li> <a href="https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=Oceans+14H&collapse=">Bio-logging & Bio-telemetry</a>, Stanford University (Spring 2024) </li>
+      <li> <a href="https://explorecourses.stanford.edu/search?q=Oceans+14H&view=catalog&page=0&filter-coursestatus-Active=on&collapse=&academicYear=20232024">Bio-logging & Bio-telemetry</a>, Stanford University (Spring 2024) </li>
     </ul>
   <li> <b> Teaching Assistant:</b> </li>
       <ul>
