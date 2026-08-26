@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Comparative Physiologist</b>. Postdoctoral Researcher, Stanford University
+subtitle: <b>Ecohysiologist</b>. Postdoctoral Researcher, Stanford University
 
 profile:
   align: center
